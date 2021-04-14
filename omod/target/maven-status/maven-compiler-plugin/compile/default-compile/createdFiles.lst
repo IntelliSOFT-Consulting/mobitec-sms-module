@@ -1,0 +1,3 @@
+org/openmrs/module/mobitecsmsmodule/web/controller/MobitecsmsmoduleController.class
+org/openmrs/module/mobitecsmsmodule/extension/html/AdminList.class
+org/openmrs/module/mobitecsmsmodule/fragment/controller/UsersFragmentController.class

@@ -1,0 +1,6 @@
+org/openmrs/module/mobitecsmsmodule/Item.class
+org/openmrs/module/mobitecsmsmodule/MobitecsmsmoduleConfig.class
+org/openmrs/module/mobitecsmsmodule/api/MobitecsmsmoduleService.class
+org/openmrs/module/mobitecsmsmodule/api/dao/MobitecsmsmoduleDao.class
+org/openmrs/module/mobitecsmsmodule/api/impl/MobitecsmsmoduleServiceImpl.class
+org/openmrs/module/mobitecsmsmodule/MobitecsmsmoduleActivator.class
